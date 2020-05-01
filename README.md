@@ -1,2 +1,3 @@
-# hello-jenkins
-Test jenkins Deploy
+# maven-project
+
+Simple Maven Project
